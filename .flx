@@ -1,0 +1,2 @@
+[setup]
+ln -s phpBB public_html
